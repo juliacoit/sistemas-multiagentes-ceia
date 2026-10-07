@@ -1,0 +1,11 @@
+# Materiais de terceiros ficam só na máquina local (ver referencias/materiais.md)
+materiais/
+*.pdf
+
+# Segredos e ambiente
+.env
+.venv/
+__pycache__/
+
+# Pesos de modelos
+*.gguf
