@@ -33,6 +33,22 @@ De autoria de colegas. Entram aqui só como referência; nenhum conteúdo é cop
 | Slides "Geração de Texto Autoregressiva" | Colegas do grupo. `[A verificar]` nomes, com autorização | Grupo de estudos, CEIA-UFG | a confirmar | `[Material: slides Geração de Texto Autoregressiva]` |
 | "Roteiro de apresentação" | `[A verificar]` autoria | Grupo de estudos, CEIA-UFG | a confirmar | `[Material: Roteiro de apresentação]` |
 
+## Materiais do PDC: exploração de tópicos AAMAS 2027
+
+Usados em [notas/exploracao-aamas-2027/](../notas/exploracao-aamas-2027/). Nenhum arquivo é
+copiado para o repositório.
+
+| Material | Autoria | Origem | Data | Link público | Rótulo nas notas |
+| --- | --- | --- | --- | --- | --- |
+| Chamada da trilha principal (*Call for Main Track*) da AAMAS 2027 | Organização da AAMAS 2027 | Site da conferência (Univ. of Warwick) | Página revisada em 01/10/2026; consultada em 05/11/2026 | <https://warwick.ac.uk/fac/sci/dcs/aamas2027/calls/call-for-main-track/> | `[Material: chamada AAMAS 2027]` |
+| Enunciado da atividade "Exploração de tópicos de pesquisa" | Coordenação do PDC. `[A verificar]` autoria | PDC, CEIA-UFG | `[A verificar]` | Sem link público | `[Material: enunciado da atividade PDC]` |
+| Mensagem do orientador sobre a exploração | Orientador | Mensagem | 04/11/2026 | Sem link público | `[Material: mensagem do orientador, 04/11/2026]` |
+| "Guia dos tópicos da AAMAS 2027" | Assistente de IA (Claude), a meu pedido | Documento no claude.ai | 05/11/2026 | Privado | `[Material: guia AAMAS 2027 (gerado por IA)]` |
+
+**Atenção:** o guia foi escrito por um assistente de IA. Explicações, exemplos de pergunta e
+recomendações de leitura dele não são da chamada nem minhas; servem para orientar a leitura e
+precisam ser conferidas antes de entrar em texto formal.
+
 ## Referências citadas a partir dos materiais
 
 Trabalhos que aparecem nas notas porque um dos materiais os cita, e que ainda não li
