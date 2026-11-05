@@ -34,3 +34,8 @@ Transformer ──> attention ──> LLM ──> tool use ──> agente ──
 - **Baseline antes de multiagente.** Um agente único com tools (ReAct) é o ponto de comparação
   de qualquer arquitetura multiagente ([papers/2022-yao-react.md](../papers/2022-yao-react.md)).
   `[Interpretação]`
+
+## Exploração de tópicos
+
+- [Exploração das áreas da AAMAS 2027](exploracao-aamas-2027/README.md): escolha dos três tópicos
+  de pesquisa da atividade do PDC.

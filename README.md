@@ -24,7 +24,7 @@ controle de versão; aqui só entram referências e notas escritas com as minhas
 
 | Pasta | O que tem |
 | --- | --- |
-| [notas/](notas/) | Notas conceituais. Comece pelo [mapa conceitual](notas/00-mapa-conceitual.md). |
+| [notas/](notas/) | Notas conceituais. Comece pelo [mapa conceitual](notas/00-mapa-conceitual.md). Exploração de tópicos da AAMAS 2027 em [notas/exploracao-aamas-2027/](notas/exploracao-aamas-2027/). |
 | [papers/](papers/) | Análises críticas de artigos, uma por arquivo, no formato do [template](papers/_template.md). |
 | [reunioes/](reunioes/) | Um registro por encontro dos grupos de estudo: material prévio, perguntas, pendências. |
 | [apresentacoes/](apresentacoes/) | Estrutura e roteiro das apresentações que fiz. |
