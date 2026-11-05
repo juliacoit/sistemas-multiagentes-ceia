@@ -6,7 +6,7 @@ fontes: [ver referencias/materiais.md]
 
 # Sistemas Multiagentes Confiáveis — caderno de pesquisa
 
-Caderno de estudos e de produção da Júlia no PDC 2026–2027 do CEIA-UFG (parceria EMBRAPII),
+Caderno de estudos e de produção da Júlia no PDC 2026–2027 do CEIA-UFG,
 projeto "Sistemas Multiagentes Confiáveis e Small Language Models em Arquiteturas
 Computacionais Abertas", linha de Sistemas Multiagentes Confiáveis (LLMs). Acompanha os grupos
 de estudo de Agentes e de NLP Avançado.
