@@ -65,7 +65,7 @@ Elas servem para eu usar os termos de modo consistente, não para fixar o uso da
 Termos trazidos do [glossário do guia das áreas](notas/exploracao-aamas-2027/guia-areas.md#glossário-do-guia)
 que ainda não existiam aqui. A definição é a do guia, simplificada e escrita por um assistente
 de IA, não minha. A coluna operacional fica em branco até eu entender o termo. Status:
-rascunho. `[Material: guia AAMAS 2027 (gerado por IA)]`
+rascunho. `[Material: guia AAMAS 2027]`
 
 | Termo | Definição do guia | Como eu reconheceria ou mediria | Áreas |
 | --- | --- | --- | --- |

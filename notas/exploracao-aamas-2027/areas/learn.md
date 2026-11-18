@@ -1,7 +1,7 @@
 ---
 titulo: "LEARN — Learning and Adaptation"
 status: rascunho
-fontes: [chamada AAMAS 2027 (main track), guia AAMAS 2027 (gerado por IA)]
+fontes: [chamada AAMAS 2027 (main track), guia AAMAS 2027]
 ---
 
 # LEARN — Learning and Adaptation
@@ -13,12 +13,12 @@ pergunta: [guia-areas.md](../guia-areas.md#learn--learning-and-adaptation).
 
 Estuda como agentes **melhoram o próprio comportamento** a partir de dados, experiência ou
 feedback, sozinhos ou junto com outros agentes que também aprendem. É a ponte entre Machine
-Learning e agentes. `[Material: guia AAMAS 2027 (gerado por IA)]`
+Learning e agentes. `[Material: guia AAMAS 2027]`
 
 **Quando vai para esta área:** quando a contribuição principal é um método de aprendizado, uma
 análise teórica de aprendizado ou um estudo empírico de aprendizado em agentes. Se o foco for a
 arquitetura, o workflow ou a avaliação de agentes baseados em LLM, a chamada manda para GAAI.
-`[Material: guia AAMAS 2027 (gerado por IA)]`
+`[Material: guia AAMAS 2027]`
 
 > Papers should be submitted to LEARN when the main contribution is a learning method,
 > learning-theoretic analysis, or empirical study of learning in agent or multiagent settings.
@@ -78,7 +78,7 @@ Quando eu entender um termo, levo a definição operacional para o
 
 **Leitura introdutória:** [Multiagent Systems: A Survey from a Machine Learning
 Perspective](https://jmvidal.cse.sc.edu/library/stone00a.pdf), de Peter Stone e Manuela Veloso
-(Autonomous Robots, 2000). `[Material: guia AAMAS 2027 (gerado por IA)]`
+(Autonomous Robots, 2000). `[Material: guia AAMAS 2027]`
 
 - **Identificação:** DOI [10.1023/A:1008942012299](https://doi.org/10.1023/A:1008942012299).
   Chave `stone2000multiagent` em [referencias.bib](../../../referencias/referencias.bib).

@@ -1,7 +1,7 @@
 ---
 titulo: "IASI — Innovative Applications and Societal Impact"
 status: rascunho
-fontes: [chamada AAMAS 2027 (main track), guia AAMAS 2027 (gerado por IA)]
+fontes: [chamada AAMAS 2027 (main track), guia AAMAS 2027]
 ---
 
 # IASI — Innovative Applications and Societal Impact
@@ -13,14 +13,14 @@ pergunta: [guia-areas.md](../guia-areas.md#iasi--innovative-applications-and-soc
 
 Estuda **aplicações reais de agentes e o impacto que elas geram**. A contribuição não é um
 algoritmo novo, e sim mostrar que agentes resolvem um problema concreto, com evidência de
-benefício, viabilidade ou adoção. `[Material: guia AAMAS 2027 (gerado por IA)]`
+benefício, viabilidade ou adoção. `[Material: guia AAMAS 2027]`
 
 **Quando vai para esta área:** quando a contribuição principal é a aplicação, a implantação, a
 validação realista, o design com as partes interessadas ou o impacto social demonstrado. Se o
 núcleo for um algoritmo, arquitetura, ferramenta ou método de simulação novo, vai para a área
 técnica correspondente. A chamada pede que o artigo explique o contexto, o papel dos agentes, a
 novidade e a evidência de impacto, e incentiva parcerias com quem vai usar o sistema.
-`[Material: guia AAMAS 2027 (gerado por IA)]`
+`[Material: guia AAMAS 2027]`
 
 > Submissions should clearly explain the application context, the role of agents, the novelty
 > of the application, and the evidence of benefit, feasibility, adoption, or measurable impact.
@@ -87,7 +87,7 @@ Quando eu entender um termo, levo a definição operacional para o
 
 **Leitura introdutória:** [Using Game Theory for Los Angeles Airport
 Security](https://ojs.aaai.org/index.php/aimagazine/article/view/2173), de James Pita e colegas
-(AI Magazine, 2009). `[Material: guia AAMAS 2027 (gerado por IA)]`
+(AI Magazine, 2009). `[Material: guia AAMAS 2027]`
 
 - **Identificação:** DOI [10.1609/aimag.v30i1.2173](https://doi.org/10.1609/aimag.v30i1.2173).
   Chave `pita2009armor` em [referencias.bib](../../../referencias/referencias.bib).

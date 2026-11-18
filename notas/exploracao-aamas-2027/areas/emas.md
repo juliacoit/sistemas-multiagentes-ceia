@@ -1,7 +1,7 @@
 ---
 titulo: "EMAS — Engineering and Analysis of Multiagent Systems"
 status: rascunho
-fontes: [chamada AAMAS 2027 (main track), guia AAMAS 2027 (gerado por IA)]
+fontes: [chamada AAMAS 2027 (main track), guia AAMAS 2027]
 ---
 
 # EMAS — Engineering and Analysis of Multiagent Systems
@@ -14,12 +14,12 @@ pergunta:
 
 Estuda **como construir, testar, implantar e manter** agentes e sistemas multiagentes como
 software. A pergunta central não é "o agente é inteligente?", e sim "como garanto que este
-sistema funciona e continua funcionando?". `[Material: guia AAMAS 2027 (gerado por IA)]`
+sistema funciona e continua funcionando?". `[Material: guia AAMAS 2027]`
 
 **Quando vai para esta área:** quando a contribuição principal são métodos, ferramentas,
 linguagens, plataformas ou processos para engenharia de agentes. Se o LLM faz a tarefa
 principal e a engenharia de SMA é só pano de fundo, o artigo vai para outra área. `[Material:
-guia AAMAS 2027 (gerado por IA)]`
+guia AAMAS 2027]`
 
 > Papers should be submitted to EMAS when the primary contribution concerns methods, tools,
 > languages, platforms, infrastructures, or processes for engineering, deploying, testing,
@@ -86,7 +86,7 @@ Quando eu entender um termo, levo a definição operacional para o
 **Leitura introdutória:** [Agent Programming in the Cognitive
 Era](https://repositorio.pucrs.br/dspace/handle/10923/20079), de Rafael Bordini e colegas
 (Autonomous Agents and Multi-Agent Systems, 2020), com PDF no repositório da PUCRS. `[Material:
-guia AAMAS 2027 (gerado por IA)]`
+guia AAMAS 2027]`
 
 - **Identificação:** DOI
   [10.1007/s10458-020-09453-y](https://doi.org/10.1007/s10458-020-09453-y). Chave

@@ -1,7 +1,7 @@
 ---
 titulo: "GTEP — Game Theory and Economic Paradigms"
 status: rascunho
-fontes: [chamada AAMAS 2027 (main track), guia AAMAS 2027 (gerado por IA)]
+fontes: [chamada AAMAS 2027 (main track), guia AAMAS 2027]
 ---
 
 # GTEP — Game Theory and Economic Paradigms
@@ -13,7 +13,7 @@ pergunta: [guia-areas.md](../guia-areas.md#gtep--game-theory-and-economic-paradi
 
 Estuda agentes que têm **interesses próprios e agem estrategicamente**: cada um tenta obter o
 melhor resultado sabendo que os outros fazem o mesmo. Usa teoria dos jogos, economia e escolha
-social para analisar e projetar essas interações. `[Material: guia AAMAS 2027 (gerado por IA)]`
+social para analisar e projetar essas interações. `[Material: guia AAMAS 2027]`
 
 **Quando vai para esta área:** quando o modelo estratégico, econômico, de teoria dos jogos ou
 de escolha social é central. Se o foco for normas, instituições, ética ou governança, vai para
@@ -83,7 +83,7 @@ Quando eu entender um termo, levo a definição operacional para o
 **Leitura introdutória:** [Multiagent Systems: Algorithmic, Game-Theoretic, and Logical
 Foundations](https://masfoundations.org/), de Yoav Shoham e Kevin Leyton-Brown (Cambridge
 University Press, 2009). É um livro, com versão em PDF gratuita para leitura no site dos
-autores. `[Material: guia AAMAS 2027 (gerado por IA)]`
+autores. `[Material: guia AAMAS 2027]`
 
 - **Identificação:** Livro, Cambridge University Press; PDF gratuito em
   [masfoundations.org](https://www.masfoundations.org/). Chave `shoham2009multiagent` em
