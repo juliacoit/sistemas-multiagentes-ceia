@@ -1,7 +1,7 @@
 ---
 titulo: "GAAI — Generative and Agentic AI"
 status: rascunho
-fontes: [chamada AAMAS 2027 (main track), guia AAMAS 2027 (gerado por IA)]
+fontes: [chamada AAMAS 2027 (main track), guia AAMAS 2027]
 ---
 
 # GAAI — Generative and Agentic AI
@@ -13,14 +13,14 @@ pergunta: [guia-areas.md](../guia-areas.md#gaai--generative-and-agentic-ai).
 
 Estuda agentes e sistemas multiagentes que **dependem de modelos generativos** (LLMs, SLMs,
 modelos multimodais) para agir, raciocinar, interagir e decidir. É a área mais nova da chamada
-e a mais próxima do projeto do PDC. `[Material: guia AAMAS 2027 (gerado por IA)]`
+e a mais próxima do projeto do PDC. `[Material: guia AAMAS 2027]`
 
 **Quando vai para esta área:** quando a contribuição central é sobre agentes cujas capacidades
 dependem substancialmente de modelos generativos. Avanços só no modelo de linguagem, engenharia
 de prompt, uso genérico de ferramentas ou tarefas generativas quaisquer ficam **fora** do
 escopo, a menos que contribuam claramente para agentes. Se o núcleo for um método geral de
 aprendizado, planejamento, engenharia ou interação humana, vai para a área correspondente.
-`[Material: guia AAMAS 2027 (gerado por IA)]`
+`[Material: guia AAMAS 2027]`
 
 > Papers should be submitted to GAAI when the central technical contribution concerns agents
 > whose capabilities, architecture, reasoning, interaction, learning, evaluation, or deployment
@@ -96,7 +96,7 @@ Quando eu entender um termo, levo a definição operacional para o
 
 **Leitura introdutória:** [A Survey on Large Language Model based Autonomous
 Agents](https://arxiv.org/abs/2308.11432), de Lei Wang e colegas (Frontiers of Computer
-Science, 2024). `[Material: guia AAMAS 2027 (gerado por IA)]`
+Science, 2024). `[Material: guia AAMAS 2027]`
 
 - **Identificação:** DOI
   [10.1007/s11704-024-40231-1](https://doi.org/10.1007/s11704-024-40231-1); arXiv

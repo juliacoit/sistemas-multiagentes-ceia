@@ -1,7 +1,7 @@
 ---
 titulo: "ROBOT — Robotics and Control"
 status: rascunho
-fontes: [chamada AAMAS 2027 (main track), guia AAMAS 2027 (gerado por IA)]
+fontes: [chamada AAMAS 2027 (main track), guia AAMAS 2027]
 ---
 
 # ROBOT — Robotics and Control
@@ -13,12 +13,12 @@ pergunta: [guia-areas.md](../guia-areas.md#robot--robotics-and-control).
 
 Estuda **robôs como agentes**: entidades com corpo, situadas no mundo físico, que precisam
 perceber, raciocinar, planejar, aprender e agir de forma autônoma, sozinhas ou em equipes de
-robôs. `[Material: guia AAMAS 2027 (gerado por IA)]`
+robôs. `[Material: guia AAMAS 2027]`
 
 **Quando vai para esta área:** quando a contribuição principal é sobre robôs autônomos,
 sistemas multirrobô ou a interação de robôs com pessoas, agentes de software ou o ambiente
 físico. Percepção, mapeamento ou controle entram quando contribuem claramente para robôs
-autônomos. `[Material: guia AAMAS 2027 (gerado por IA)]`
+autônomos. `[Material: guia AAMAS 2027]`
 
 > This area welcomes papers whose primary contribution concerns autonomous robots, robotic
 > agents, multi-robot systems, or the interaction of robots with humans, software agents, or
@@ -89,7 +89,7 @@ Quando eu entender um termo, levo a definição operacional para o
 
 **Leitura introdutória:** [Do As I Can, Not As I Say: Grounding Language in Robotic
 Affordances](https://arxiv.org/abs/2204.01691), de Michael Ahn e colegas (CoRL, 2022),
-conhecido como SayCan. `[Material: guia AAMAS 2027 (gerado por IA)]`
+conhecido como SayCan. `[Material: guia AAMAS 2027]`
 
 - **Identificação:** arXiv [2204.01691](https://arxiv.org/abs/2204.01691); anais: PMLR 205, pp.
   287–318. Chave `ahn2022saycan` em [referencias.bib](../../../referencias/referencias.bib).

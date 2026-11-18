@@ -1,7 +1,7 @@
 ---
 titulo: "SOPS — Search, Optimization, Planning, and Scheduling"
 status: rascunho
-fontes: [chamada AAMAS 2027 (main track), guia AAMAS 2027 (gerado por IA)]
+fontes: [chamada AAMAS 2027 (main track), guia AAMAS 2027]
 ---
 
 # SOPS — Search, Optimization, Planning, and Scheduling
@@ -14,11 +14,11 @@ pergunta: [guia-areas.md](../guia-areas.md#sops--search-optimization-planning-an
 Estuda **algoritmos para decidir o que fazer e em que ordem**: buscar soluções num espaço de
 possibilidades, otimizar sob restrições, montar planos de ação e agendar tarefas no tempo.
 Atenção: *Search* aqui é **busca algorítmica**, não "pesquisa científica". `[Material: guia
-AAMAS 2027 (gerado por IA)]`
+AAMAS 2027]`
 
 **Quando vai para esta área:** quando a contribuição principal é um método de busca,
 otimização, planejamento, agendamento ou teoria da decisão, mesmo que aplicado a robôs, humanos
-ou com apoio de LLMs (modelos de fundação). `[Material: guia AAMAS 2027 (gerado por IA)]`
+ou com apoio de LLMs (modelos de fundação). `[Material: guia AAMAS 2027]`
 
 > Papers should be submitted to SOPS when the primary contribution is a search, optimization,
 > planning, scheduling, or decision-theoretic method, even if the method is applied to
@@ -78,7 +78,7 @@ Quando eu entender um termo, levo a definição operacional para o
 
 **Leitura introdutória:** [Multi-Agent Pathfinding: Definitions, Variants, and
 Benchmarks](https://ojs.aaai.org/index.php/SOCS/article/view/18510), de Roni Stern e colegas
-(SoCS, 2019). `[Material: guia AAMAS 2027 (gerado por IA)]`
+(SoCS, 2019). `[Material: guia AAMAS 2027]`
 
 - **Identificação:** DOI [10.1609/socs.v10i1.18510](https://doi.org/10.1609/socs.v10i1.18510).
   Chave `stern2019mapf` em [referencias.bib](../../../referencias/referencias.bib).

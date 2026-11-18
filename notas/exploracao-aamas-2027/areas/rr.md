@@ -1,7 +1,7 @@
 ---
 titulo: "RR — Representation and Reasoning"
 status: rascunho
-fontes: [chamada AAMAS 2027 (main track), guia AAMAS 2027 (gerado por IA)]
+fontes: [chamada AAMAS 2027 (main track), guia AAMAS 2027]
 ---
 
 # RR — Representation and Reasoning
@@ -13,13 +13,11 @@ pergunta: [guia-areas.md](../guia-areas.md#rr--representation-and-reasoning).
 
 Estuda como **representar formalmente o que um agente sabe, acredita e quer**, e como
 raciocinar sobre isso de forma rigorosa, geralmente com lógica. Inclui a verificação formal:
-provar matematicamente que um sistema se comporta como deveria. `[Material: guia AAMAS 2027
-(gerado por IA)]`
+provar matematicamente que um sistema se comporta como deveria. `[Material: guia AAMAS 2027]`
 
 **Quando vai para esta área:** quando a contribuição principal é um formalismo, método ou
 análise de representação ou raciocínio para agentes. Se o núcleo for planejamento ou
-otimização, vai para SOPS, salvo se o formalismo for central. `[Material: guia AAMAS 2027
-(gerado por IA)]`
+otimização, vai para SOPS, salvo se o formalismo for central. `[Material: guia AAMAS 2027]`
 
 > Papers should be submitted to RR when the primary contribution is a representation or
 > reasoning framework, method, analysis, or formalism for agents or multiagent systems. Papers
@@ -78,7 +76,7 @@ Quando eu entender um termo, levo a definição operacional para o
 
 **Leitura introdutória:** [BDI Agents: From Theory to
 Practice](https://apice.unibo.it/xwiki/bin/view/Publication/BdiIcmas95?language=), de Anand Rao
-e Michael Georgeff (ICMAS, 1995). `[Material: guia AAMAS 2027 (gerado por IA)]`
+e Michael Georgeff (ICMAS, 1995). `[Material: guia AAMAS 2027]`
 
 - **Identificação:** ICMAS 1995, pp. 312–319. Chave `rao1995bdi` em
   [referencias.bib](../../../referencias/referencias.bib).

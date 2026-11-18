@@ -1,7 +1,7 @@
 ---
 titulo: "SIM — Modeling and Simulation of Artificial Societies"
 status: rascunho
-fontes: [chamada AAMAS 2027 (main track), guia AAMAS 2027 (gerado por IA)]
+fontes: [chamada AAMAS 2027 (main track), guia AAMAS 2027]
 ---
 
 # SIM — Modeling and Simulation of Artificial Societies
@@ -15,11 +15,11 @@ pergunta:
 Estuda **simulações computacionais com muitos agentes** para entender como comportamentos
 individuais geram padrões coletivos (o chamado comportamento emergente) em sociedades,
 economias, ecossistemas, tráfego e organizações. Aqui o agente é um instrumento para estudar um
-sistema complexo. `[Material: guia AAMAS 2027 (gerado por IA)]`
+sistema complexo. `[Material: guia AAMAS 2027]`
 
 **Quando vai para esta área:** quando a simulação é central, seja como avanço de método, seja
 como forma de explicar, prever ou avaliar um sistema complexo. A chamada cita ecologia e
-biologia entre as aplicações. `[Material: guia AAMAS 2027 (gerado por IA)]`
+biologia entre as aplicações. `[Material: guia AAMAS 2027]`
 
 > Papers should be submitted to SIM when simulation is central to the contribution, either as a
 > methodological advance or as a way to explain, predict, explore, or evaluate complex systems.

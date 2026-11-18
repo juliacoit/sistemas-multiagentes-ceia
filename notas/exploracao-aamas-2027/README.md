@@ -42,6 +42,7 @@ tópicos que vou entregar.
 | [fichas/](fichas/) | Uma ficha rápida por paper, no formato do [template](../../papers/_template-ficha-rapida.md). |
 | [escolha-final.md](escolha-final.md) | Os 3 tópicos com as justificativas, como rascunho do formulário. |
 | [Roteiro da apresentação](../../apresentacoes/exploracao-topicos-aamas/README.md) | Os 3 minutos de fala. |
+| [Preparação](../../apresentacoes/exploracao-topicos-aamas/preparacao.md) | Etapas até o encontro de 19/11/2026: o que ler, o que aprender, o que anotar. |
 
 Uma ficha que valer uma leitura completa vira análise em [papers/](../../papers/), no formato
 do [template completo](../../papers/_template.md). Conceitos que eu entender vão para o

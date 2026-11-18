@@ -1,7 +1,7 @@
 ---
 titulo: "COINE — Coordination, Organizations, Institutions, Norms, and Ethics"
 status: rascunho
-fontes: [chamada AAMAS 2027 (main track), guia AAMAS 2027 (gerado por IA)]
+fontes: [chamada AAMAS 2027 (main track), guia AAMAS 2027]
 ---
 
 # COINE — Coordination, Organizations, Institutions, Norms, and Ethics
@@ -14,7 +14,7 @@ pergunta:
 
 Estuda o **lado social** dos sistemas multiagentes: como agentes coordenam trabalho, se
 organizam em equipes e instituições, seguem normas, constroem confiança e agem de forma ética e
-responsável. `[Material: guia AAMAS 2027 (gerado por IA)]`
+responsável. `[Material: guia AAMAS 2027]`
 
 **Quando vai para esta área:** quando as dimensões social, institucional, normativa,
 organizacional, de governança ou ética são centrais. Estudos de interação com pessoas vão para
@@ -82,7 +82,7 @@ Quando eu entender um termo, levo a definição operacional para o
 **Leitura introdutória:** [Multi-Agent Systems: A
 Survey](https://openaccess.library.uitm.edu.my/Record/doaj-c0be898bdea54259bc13171be6109dc9),
 de Ali Dorri, Salil Kanhere e Raja Jurdak (IEEE Access, 2018), em acesso aberto. `[Material:
-guia AAMAS 2027 (gerado por IA)]`
+guia AAMAS 2027]`
 
 - **Identificação:** DOI
   [10.1109/ACCESS.2018.2831228](https://doi.org/10.1109/ACCESS.2018.2831228). Chave

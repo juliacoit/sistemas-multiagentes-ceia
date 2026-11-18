@@ -1,7 +1,7 @@
 ---
 titulo: "Guia das 11 áreas da AAMAS 2027"
 status: rascunho — expandir com os materiais
-fontes: [chamada AAMAS 2027 (main track), guia AAMAS 2027 (gerado por IA)]
+fontes: [chamada AAMAS 2027 (main track), guia AAMAS 2027]
 ---
 
 # Guia das 11 áreas da AAMAS 2027
@@ -20,11 +20,10 @@ principal](https://warwick.ac.uk/fac/sci/dcs/aamas2027/calls/call-for-main-track
 | --- | --- | --- |
 | Nomes das áreas e dos subtópicos | Chamada | `[Material: chamada AAMAS 2027]` |
 | Trechos em inglês citados em "Quando vai para esta área" | Chamada | `[Material: chamada AAMAS 2027]` |
-| Descrições, resumo da regra, "o que é", exemplos de pergunta, leituras e glossário | Assistente de IA | `[Material: guia AAMAS 2027 (gerado por IA)]` |
+| Descrições, resumo da regra, "o que é", exemplos de pergunta, leituras e glossário | Assistente de IA | `[Material: guia AAMAS 2027]` |
 
 As explicações e os exemplos de pergunta servem para orientar a leitura. Não são definições
-oficiais nem afirmações sobre o que a literatura já resolveu. `[Material: guia AAMAS 2027
-(gerado por IA)]`
+oficiais nem afirmações sobre o que a literatura já resolveu. `[Material: guia AAMAS 2027]`
 
 ## Notas sobre os nomes
 
@@ -37,8 +36,7 @@ focus
   seções trazem "Representation and Reasoning" e "Modeling and Simulation of Artificial
   Societies". Aqui uso os títulos das seções. `[Material: chamada AAMAS 2027]`
 - A tradução automática do site tem erros: *Search* virou "Pesquisa" e *prompt engineering*
-  virou "engenharia rápida". Em SOPS, *Search* é busca algorítmica. `[Material: guia AAMAS 2027
-(gerado por IA)]`
+  virou "engenharia rápida". Em SOPS, *Search* é busca algorítmica. `[Material: guia AAMAS 2027]`
 
 ## Como usar
 
@@ -64,12 +62,12 @@ As anotações pessoais ficam em [areas/](areas/), um arquivo por área.
 
 Estuda como agentes **melhoram o próprio comportamento** a partir de dados, experiência ou
 feedback, sozinhos ou junto com outros agentes que também aprendem. É a ponte entre Machine
-Learning e agentes. `[Material: guia AAMAS 2027 (gerado por IA)]`
+Learning e agentes. `[Material: guia AAMAS 2027]`
 
 **Quando vai para esta área:** quando a contribuição principal é um método de aprendizado, uma
 análise teórica de aprendizado ou um estudo empírico de aprendizado em agentes. Se o foco for a
 arquitetura, o workflow ou a avaliação de agentes baseados em LLM, a chamada manda para GAAI.
-`[Material: guia AAMAS 2027 (gerado por IA)]`
+`[Material: guia AAMAS 2027]`
 
 Texto da chamada:
 
@@ -80,7 +78,7 @@ Texto da chamada:
 > `[Material: chamada AAMAS 2027]`
 
 Nomes dos subtópicos: `[Material: chamada AAMAS 2027]`. Colunas "O que é" e "Exemplo de
-pergunta": `[Material: guia AAMAS 2027 (gerado por IA)]`.
+pergunta": `[Material: guia AAMAS 2027]`.
 
 | Subtópico | O que é | Exemplo de pergunta |
 | --- | --- | --- |
@@ -100,12 +98,12 @@ pergunta": `[Material: guia AAMAS 2027 (gerado por IA)]`.
 
 **Leitura introdutória:** [Multiagent Systems: A Survey from a Machine Learning
 Perspective](https://jmvidal.cse.sc.edu/library/stone00a.pdf), de Peter Stone e Manuela Veloso
-(Autonomous Robots, 2000). `[Material: guia AAMAS 2027 (gerado por IA)]`
+(Autonomous Robots, 2000). `[Material: guia AAMAS 2027]`
 
 Identificação: DOI [10.1023/A:1008942012299](https://doi.org/10.1023/A:1008942012299). Chave
 `stone2000multiagent` em [referencias.bib](../../referencias/referencias.bib).
 
-Comentários do guia sobre a leitura: `[Material: guia AAMAS 2027 (gerado por IA)]`
+Comentários do guia sobre a leitura: `[Material: guia AAMAS 2027]`
 
 - **Por que esta:** foi escrita como introdução ao campo de SMA do ponto de vista de Machine
   Learning. Organiza os sistemas por dois eixos simples: se os agentes são iguais ou
@@ -125,14 +123,14 @@ Minhas anotações: [areas/learn.md](areas/learn.md).
 
 Estuda agentes e sistemas multiagentes que **dependem de modelos generativos** (LLMs, SLMs,
 modelos multimodais) para agir, raciocinar, interagir e decidir. É a área mais nova da chamada
-e a mais próxima do projeto do PDC. `[Material: guia AAMAS 2027 (gerado por IA)]`
+e a mais próxima do projeto do PDC. `[Material: guia AAMAS 2027]`
 
 **Quando vai para esta área:** quando a contribuição central é sobre agentes cujas capacidades
 dependem substancialmente de modelos generativos. Avanços só no modelo de linguagem, engenharia
 de prompt, uso genérico de ferramentas ou tarefas generativas quaisquer ficam **fora** do
 escopo, a menos que contribuam claramente para agentes. Se o núcleo for um método geral de
 aprendizado, planejamento, engenharia ou interação humana, vai para a área correspondente.
-`[Material: guia AAMAS 2027 (gerado por IA)]`
+`[Material: guia AAMAS 2027]`
 
 Texto da chamada:
 
@@ -149,7 +147,7 @@ Texto da chamada:
 > `[Material: chamada AAMAS 2027]`
 
 Nomes dos subtópicos: `[Material: chamada AAMAS 2027]`. Colunas "O que é" e "Exemplo de
-pergunta": `[Material: guia AAMAS 2027 (gerado por IA)]`.
+pergunta": `[Material: guia AAMAS 2027]`.
 
 | Subtópico | O que é | Exemplo de pergunta |
 | --- | --- | --- |
@@ -179,13 +177,13 @@ pergunta": `[Material: guia AAMAS 2027 (gerado por IA)]`.
 
 **Leitura introdutória:** [A Survey on Large Language Model based Autonomous
 Agents](https://arxiv.org/abs/2308.11432), de Lei Wang e colegas (Frontiers of Computer
-Science, 2024). `[Material: guia AAMAS 2027 (gerado por IA)]`
+Science, 2024). `[Material: guia AAMAS 2027]`
 
 Identificação: DOI [10.1007/s11704-024-40231-1](https://doi.org/10.1007/s11704-024-40231-1);
 arXiv [2308.11432](https://arxiv.org/abs/2308.11432). Chave `wang2024survey` em
 [referencias.bib](../../referencias/referencias.bib).
 
-Comentários do guia sobre a leitura: `[Material: guia AAMAS 2027 (gerado por IA)]`
+Comentários do guia sobre a leitura: `[Material: guia AAMAS 2027]`
 
 - **Por que esta:** propõe um framework unificado para construir agentes com LLM e depois passa
   por aplicações e por como esses agentes são avaliados. Dá vocabulário para quase todos os
@@ -205,7 +203,7 @@ Minhas anotações: [areas/gaai.md](areas/gaai.md).
 
 Estuda agentes que têm **interesses próprios e agem estrategicamente**: cada um tenta obter o
 melhor resultado sabendo que os outros fazem o mesmo. Usa teoria dos jogos, economia e escolha
-social para analisar e projetar essas interações. `[Material: guia AAMAS 2027 (gerado por IA)]`
+social para analisar e projetar essas interações. `[Material: guia AAMAS 2027]`
 
 **Quando vai para esta área:** quando o modelo estratégico, econômico, de teoria dos jogos ou
 de escolha social é central. Se o foco for normas, instituições, ética ou governança, vai para
@@ -221,7 +219,7 @@ Texto da chamada:
 > `[Material: chamada AAMAS 2027]`
 
 Nomes dos subtópicos: `[Material: chamada AAMAS 2027]`. Colunas "O que é" e "Exemplo de
-pergunta": `[Material: guia AAMAS 2027 (gerado por IA)]`.
+pergunta": `[Material: guia AAMAS 2027]`.
 
 | Subtópico | O que é | Exemplo de pergunta |
 | --- | --- | --- |
@@ -246,13 +244,13 @@ pergunta": `[Material: guia AAMAS 2027 (gerado por IA)]`.
 **Leitura introdutória:** [Multiagent Systems: Algorithmic, Game-Theoretic, and Logical
 Foundations](https://masfoundations.org/), de Yoav Shoham e Kevin Leyton-Brown (Cambridge
 University Press, 2009). É um livro, com versão em PDF gratuita para leitura no site dos
-autores. `[Material: guia AAMAS 2027 (gerado por IA)]`
+autores. `[Material: guia AAMAS 2027]`
 
 Identificação: Livro, Cambridge University Press; PDF gratuito em
 [masfoundations.org](https://www.masfoundations.org/). Chave `shoham2009multiagent` em
 [referencias.bib](../../referencias/referencias.bib).
 
-Comentários do guia sobre a leitura: `[Material: guia AAMAS 2027 (gerado por IA)]`
+Comentários do guia sobre a leitura: `[Material: guia AAMAS 2027]`
 
 - **Por que esta:** cobre teoria dos jogos, escolha social, desenho de mecanismos e leilões com
   exemplos antes das provas. Também tem um apêndice com a base de probabilidade e MDPs.
@@ -271,7 +269,7 @@ Minhas anotações: [areas/gtep.md](areas/gtep.md).
 
 Estuda o **lado social** dos sistemas multiagentes: como agentes coordenam trabalho, se
 organizam em equipes e instituições, seguem normas, constroem confiança e agem de forma ética e
-responsável. `[Material: guia AAMAS 2027 (gerado por IA)]`
+responsável. `[Material: guia AAMAS 2027]`
 
 **Quando vai para esta área:** quando as dimensões social, institucional, normativa,
 organizacional, de governança ou ética são centrais. Estudos de interação com pessoas vão para
@@ -287,7 +285,7 @@ Texto da chamada:
 > `[Material: chamada AAMAS 2027]`
 
 Nomes dos subtópicos: `[Material: chamada AAMAS 2027]`. Colunas "O que é" e "Exemplo de
-pergunta": `[Material: guia AAMAS 2027 (gerado por IA)]`.
+pergunta": `[Material: guia AAMAS 2027]`.
 
 | Subtópico | O que é | Exemplo de pergunta |
 | --- | --- | --- |
@@ -310,12 +308,12 @@ pergunta": `[Material: guia AAMAS 2027 (gerado por IA)]`.
 **Leitura introdutória:** [Multi-Agent Systems: A
 Survey](https://openaccess.library.uitm.edu.my/Record/doaj-c0be898bdea54259bc13171be6109dc9),
 de Ali Dorri, Salil Kanhere e Raja Jurdak (IEEE Access, 2018), em acesso aberto. `[Material:
-guia AAMAS 2027 (gerado por IA)]`
+guia AAMAS 2027]`
 
 Identificação: DOI [10.1109/ACCESS.2018.2831228](https://doi.org/10.1109/ACCESS.2018.2831228).
 Chave `dorri2018multiagent` em [referencias.bib](../../referencias/referencias.bib).
 
-Comentários do guia sobre a leitura: `[Material: guia AAMAS 2027 (gerado por IA)]`
+Comentários do guia sobre a leitura: `[Material: guia AAMAS 2027]`
 
 - **Por que esta:** visão geral acessível de SMA, incluindo como agentes se organizam e
   coordenam, sem exigir base formal.
@@ -330,11 +328,11 @@ Minhas anotações: [areas/coine.md](areas/coine.md).
 Estuda **algoritmos para decidir o que fazer e em que ordem**: buscar soluções num espaço de
 possibilidades, otimizar sob restrições, montar planos de ação e agendar tarefas no tempo.
 Atenção: *Search* aqui é **busca algorítmica**, não "pesquisa científica". `[Material: guia
-AAMAS 2027 (gerado por IA)]`
+AAMAS 2027]`
 
 **Quando vai para esta área:** quando a contribuição principal é um método de busca,
 otimização, planejamento, agendamento ou teoria da decisão, mesmo que aplicado a robôs, humanos
-ou com apoio de LLMs (modelos de fundação). `[Material: guia AAMAS 2027 (gerado por IA)]`
+ou com apoio de LLMs (modelos de fundação). `[Material: guia AAMAS 2027]`
 
 Texto da chamada:
 
@@ -344,7 +342,7 @@ Texto da chamada:
 > `[Material: chamada AAMAS 2027]`
 
 Nomes dos subtópicos: `[Material: chamada AAMAS 2027]`. Colunas "O que é" e "Exemplo de
-pergunta": `[Material: guia AAMAS 2027 (gerado por IA)]`.
+pergunta": `[Material: guia AAMAS 2027]`.
 
 | Subtópico | O que é | Exemplo de pergunta |
 | --- | --- | --- |
@@ -365,12 +363,12 @@ pergunta": `[Material: guia AAMAS 2027 (gerado por IA)]`.
 
 **Leitura introdutória:** [Multi-Agent Pathfinding: Definitions, Variants, and
 Benchmarks](https://ojs.aaai.org/index.php/SOCS/article/view/18510), de Roni Stern e colegas
-(SoCS, 2019). `[Material: guia AAMAS 2027 (gerado por IA)]`
+(SoCS, 2019). `[Material: guia AAMAS 2027]`
 
 Identificação: DOI [10.1609/socs.v10i1.18510](https://doi.org/10.1609/socs.v10i1.18510). Chave
 `stern2019mapf` em [referencias.bib](../../referencias/referencias.bib).
 
-Comentários do guia sobre a leitura: `[Material: guia AAMAS 2027 (gerado por IA)]`
+Comentários do guia sobre a leitura: `[Material: guia AAMAS 2027]`
 
 - **Por que esta:** apresenta um problema clássico de planejamento multiagente, planejar rotas
   de vários agentes sem colisão, com terminologia unificada e figuras claras. Dois dos autores,
@@ -391,13 +389,11 @@ Minhas anotações: [areas/sops.md](areas/sops.md).
 
 Estuda como **representar formalmente o que um agente sabe, acredita e quer**, e como
 raciocinar sobre isso de forma rigorosa, geralmente com lógica. Inclui a verificação formal:
-provar matematicamente que um sistema se comporta como deveria. `[Material: guia AAMAS 2027
-(gerado por IA)]`
+provar matematicamente que um sistema se comporta como deveria. `[Material: guia AAMAS 2027]`
 
 **Quando vai para esta área:** quando a contribuição principal é um formalismo, método ou
 análise de representação ou raciocínio para agentes. Se o núcleo for planejamento ou
-otimização, vai para SOPS, salvo se o formalismo for central. `[Material: guia AAMAS 2027
-(gerado por IA)]`
+otimização, vai para SOPS, salvo se o formalismo for central. `[Material: guia AAMAS 2027]`
 
 Texto da chamada:
 
@@ -408,7 +404,7 @@ Texto da chamada:
 > `[Material: chamada AAMAS 2027]`
 
 Nomes dos subtópicos: `[Material: chamada AAMAS 2027]`. Colunas "O que é" e "Exemplo de
-pergunta": `[Material: guia AAMAS 2027 (gerado por IA)]`.
+pergunta": `[Material: guia AAMAS 2027]`.
 
 | Subtópico | O que é | Exemplo de pergunta |
 | --- | --- | --- |
@@ -427,12 +423,12 @@ pergunta": `[Material: guia AAMAS 2027 (gerado por IA)]`.
 
 **Leitura introdutória:** [BDI Agents: From Theory to
 Practice](https://apice.unibo.it/xwiki/bin/view/Publication/BdiIcmas95?language=), de Anand Rao
-e Michael Georgeff (ICMAS, 1995). `[Material: guia AAMAS 2027 (gerado por IA)]`
+e Michael Georgeff (ICMAS, 1995). `[Material: guia AAMAS 2027]`
 
 Identificação: ICMAS 1995, pp. 312–319. Chave `rao1995bdi` em
 [referencias.bib](../../referencias/referencias.bib).
 
-Comentários do guia sobre a leitura: `[Material: guia AAMAS 2027 (gerado por IA)]`
+Comentários do guia sobre a leitura: `[Material: guia AAMAS 2027]`
 
 - **Por que esta:** texto clássico e curto (8 páginas) que liga a teoria de agentes com
   crenças, desejos e intenções à sua implementação, usando uma aplicação de controle de tráfego
@@ -451,12 +447,12 @@ Minhas anotações: [areas/rr.md](areas/rr.md).
 
 Estuda **como construir, testar, implantar e manter** agentes e sistemas multiagentes como
 software. A pergunta central não é "o agente é inteligente?", e sim "como garanto que este
-sistema funciona e continua funcionando?". `[Material: guia AAMAS 2027 (gerado por IA)]`
+sistema funciona e continua funcionando?". `[Material: guia AAMAS 2027]`
 
 **Quando vai para esta área:** quando a contribuição principal são métodos, ferramentas,
 linguagens, plataformas ou processos para engenharia de agentes. Se o LLM faz a tarefa
 principal e a engenharia de SMA é só pano de fundo, o artigo vai para outra área. `[Material:
-guia AAMAS 2027 (gerado por IA)]`
+guia AAMAS 2027]`
 
 Texto da chamada:
 
@@ -468,7 +464,7 @@ Texto da chamada:
 > `[Material: chamada AAMAS 2027]`
 
 Nomes dos subtópicos: `[Material: chamada AAMAS 2027]`. Colunas "O que é" e "Exemplo de
-pergunta": `[Material: guia AAMAS 2027 (gerado por IA)]`.
+pergunta": `[Material: guia AAMAS 2027]`.
 
 | Subtópico | O que é | Exemplo de pergunta |
 | --- | --- | --- |
@@ -494,12 +490,12 @@ pergunta": `[Material: guia AAMAS 2027 (gerado por IA)]`.
 **Leitura introdutória:** [Agent Programming in the Cognitive
 Era](https://repositorio.pucrs.br/dspace/handle/10923/20079), de Rafael Bordini e colegas
 (Autonomous Agents and Multi-Agent Systems, 2020), com PDF no repositório da PUCRS. `[Material:
-guia AAMAS 2027 (gerado por IA)]`
+guia AAMAS 2027]`
 
 Identificação: DOI [10.1007/s10458-020-09453-y](https://doi.org/10.1007/s10458-020-09453-y).
 Chave `bordini2020agent` em [referencias.bib](../../referencias/referencias.bib).
 
-Comentários do guia sobre a leitura: `[Material: guia AAMAS 2027 (gerado por IA)]`
+Comentários do guia sobre a leitura: `[Material: guia AAMAS 2027]`
 
 - **Por que esta:** revisa a programação de agentes baseada em BDI e discute formas de integrar
   técnicas de IA e Machine Learning a esses agentes. É uma ponte direta entre o EMAS clássico e
@@ -521,11 +517,11 @@ Minhas anotações: [areas/emas.md](areas/emas.md).
 Estuda **simulações computacionais com muitos agentes** para entender como comportamentos
 individuais geram padrões coletivos (o chamado comportamento emergente) em sociedades,
 economias, ecossistemas, tráfego e organizações. Aqui o agente é um instrumento para estudar um
-sistema complexo. `[Material: guia AAMAS 2027 (gerado por IA)]`
+sistema complexo. `[Material: guia AAMAS 2027]`
 
 **Quando vai para esta área:** quando a simulação é central, seja como avanço de método, seja
 como forma de explicar, prever ou avaliar um sistema complexo. A chamada cita ecologia e
-biologia entre as aplicações. `[Material: guia AAMAS 2027 (gerado por IA)]`
+biologia entre as aplicações. `[Material: guia AAMAS 2027]`
 
 Texto da chamada:
 
@@ -534,7 +530,7 @@ Texto da chamada:
 > `[Material: chamada AAMAS 2027]`
 
 Nomes dos subtópicos: `[Material: chamada AAMAS 2027]`. Colunas "O que é" e "Exemplo de
-pergunta": `[Material: guia AAMAS 2027 (gerado por IA)]`.
+pergunta": `[Material: guia AAMAS 2027]`.
 
 | Subtópico | O que é | Exemplo de pergunta |
 | --- | --- | --- |
@@ -559,7 +555,7 @@ IA)]`
 Identificação: DOI [10.1057/jos.2010.3](https://doi.org/10.1057/jos.2010.3). Chave
 `macal2010tutorial` em [referencias.bib](../../referencias/referencias.bib).
 
-Comentários do guia sobre a leitura: `[Material: guia AAMAS 2027 (gerado por IA)]`
+Comentários do guia sobre a leitura: `[Material: guia AAMAS 2027]`
 
 - **Por que esta:** é literalmente um tutorial. Explica os conceitos básicos de modelagem
   baseada em agentes, mostra aplicações em várias disciplinas e apresenta ferramentas para
@@ -580,11 +576,11 @@ Minhas anotações: [areas/sim.md](areas/sim.md).
 
 Estuda **como pessoas e agentes interagem e trabalham juntos**: confiança, explicações, divisão
 de controle e como o agente percebe e modela o humano. Muitos trabalhos da área avaliam o
-sistema com estudos com usuários. `[Material: guia AAMAS 2027 (gerado por IA)]`
+sistema com estudos com usuários. `[Material: guia AAMAS 2027]`
 
 **Quando vai para esta área:** quando a interação humano-agente é central na pergunta, no
 método ou na avaliação. Aspectos institucionais ou de governança vão para COINE; arquiteturas
-de agentes generativos vão para GAAI. `[Material: guia AAMAS 2027 (gerado por IA)]`
+de agentes generativos vão para GAAI. `[Material: guia AAMAS 2027]`
 
 Texto da chamada:
 
@@ -595,7 +591,7 @@ Texto da chamada:
 > `[Material: chamada AAMAS 2027]`
 
 Nomes dos subtópicos: `[Material: chamada AAMAS 2027]`. Colunas "O que é" e "Exemplo de
-pergunta": `[Material: guia AAMAS 2027 (gerado por IA)]`.
+pergunta": `[Material: guia AAMAS 2027]`.
 
 | Subtópico | O que é | Exemplo de pergunta |
 | --- | --- | --- |
@@ -616,12 +612,12 @@ pergunta": `[Material: guia AAMAS 2027 (gerado por IA)]`.
 
 **Leitura introdutória:** [Guidelines for Human-AI
 Interaction](https://www.microsoft.com/research/publication/guidelines-for-human-ai-interaction/),
-de Saleema Amershi e colegas (CHI, 2019). `[Material: guia AAMAS 2027 (gerado por IA)]`
+de Saleema Amershi e colegas (CHI, 2019). `[Material: guia AAMAS 2027]`
 
 Identificação: DOI [10.1145/3290605.3300233](https://doi.org/10.1145/3290605.3300233). Chave
 `amershi2019guidelines` em [referencias.bib](../../referencias/referencias.bib).
 
-Comentários do guia sobre a leitura: `[Material: guia AAMAS 2027 (gerado por IA)]`
+Comentários do guia sobre a leitura: `[Material: guia AAMAS 2027]`
 
 - **Por que esta:** propõe 18 diretrizes de como um sistema de IA deve se comportar com
   pessoas, agrupadas em quatro momentos: no primeiro contato, durante o uso, quando erra e ao
@@ -640,12 +636,12 @@ Minhas anotações: [areas/hai.md](areas/hai.md).
 
 Estuda **robôs como agentes**: entidades com corpo, situadas no mundo físico, que precisam
 perceber, raciocinar, planejar, aprender e agir de forma autônoma, sozinhas ou em equipes de
-robôs. `[Material: guia AAMAS 2027 (gerado por IA)]`
+robôs. `[Material: guia AAMAS 2027]`
 
 **Quando vai para esta área:** quando a contribuição principal é sobre robôs autônomos,
 sistemas multirrobô ou a interação de robôs com pessoas, agentes de software ou o ambiente
 físico. Percepção, mapeamento ou controle entram quando contribuem claramente para robôs
-autônomos. `[Material: guia AAMAS 2027 (gerado por IA)]`
+autônomos. `[Material: guia AAMAS 2027]`
 
 Texto da chamada:
 
@@ -663,7 +659,7 @@ Texto da chamada:
 > `[Material: chamada AAMAS 2027]`
 
 Nomes dos subtópicos: `[Material: chamada AAMAS 2027]`. Colunas "O que é" e "Exemplo de
-pergunta": `[Material: guia AAMAS 2027 (gerado por IA)]`.
+pergunta": `[Material: guia AAMAS 2027]`.
 
 | Subtópico | O que é | Exemplo de pergunta |
 | --- | --- | --- |
@@ -687,12 +683,12 @@ pergunta": `[Material: guia AAMAS 2027 (gerado por IA)]`.
 
 **Leitura introdutória:** [Do As I Can, Not As I Say: Grounding Language in Robotic
 Affordances](https://arxiv.org/abs/2204.01691), de Michael Ahn e colegas (CoRL, 2022),
-conhecido como SayCan. `[Material: guia AAMAS 2027 (gerado por IA)]`
+conhecido como SayCan. `[Material: guia AAMAS 2027]`
 
 Identificação: arXiv [2204.01691](https://arxiv.org/abs/2204.01691); anais: PMLR 205, pp.
 287–318. Chave `ahn2022saycan` em [referencias.bib](../../referencias/referencias.bib).
 
-Comentários do guia sobre a leitura: `[Material: guia AAMAS 2027 (gerado por IA)]`
+Comentários do guia sobre a leitura: `[Material: guia AAMAS 2027]`
 
 - **Por que esta:** é uma ponte natural para quem vem de LLMs. O modelo de linguagem sugere
   passos de alto nível, e funções de valor de habilidades pré-treinadas dizem o que o robô de
@@ -713,14 +709,14 @@ Minhas anotações: [areas/robot.md](areas/robot.md).
 
 Estuda **aplicações reais de agentes e o impacto que elas geram**. A contribuição não é um
 algoritmo novo, e sim mostrar que agentes resolvem um problema concreto, com evidência de
-benefício, viabilidade ou adoção. `[Material: guia AAMAS 2027 (gerado por IA)]`
+benefício, viabilidade ou adoção. `[Material: guia AAMAS 2027]`
 
 **Quando vai para esta área:** quando a contribuição principal é a aplicação, a implantação, a
 validação realista, o design com as partes interessadas ou o impacto social demonstrado. Se o
 núcleo for um algoritmo, arquitetura, ferramenta ou método de simulação novo, vai para a área
 técnica correspondente. A chamada pede que o artigo explique o contexto, o papel dos agentes, a
 novidade e a evidência de impacto, e incentiva parcerias com quem vai usar o sistema.
-`[Material: guia AAMAS 2027 (gerado por IA)]`
+`[Material: guia AAMAS 2027]`
 
 Texto da chamada:
 
@@ -739,7 +735,7 @@ Texto da chamada:
 > `[Material: chamada AAMAS 2027]`
 
 Nomes dos subtópicos: `[Material: chamada AAMAS 2027]`. Colunas "O que é" e "Exemplo de
-pergunta": `[Material: guia AAMAS 2027 (gerado por IA)]`.
+pergunta": `[Material: guia AAMAS 2027]`.
 
 | Subtópico | O que é | Exemplo de pergunta |
 | --- | --- | --- |
@@ -758,12 +754,12 @@ pergunta": `[Material: guia AAMAS 2027 (gerado por IA)]`.
 
 **Leitura introdutória:** [Using Game Theory for Los Angeles Airport
 Security](https://ojs.aaai.org/index.php/aimagazine/article/view/2173), de James Pita e colegas
-(AI Magazine, 2009). `[Material: guia AAMAS 2027 (gerado por IA)]`
+(AI Magazine, 2009). `[Material: guia AAMAS 2027]`
 
 Identificação: DOI [10.1609/aimag.v30i1.2173](https://doi.org/10.1609/aimag.v30i1.2173). Chave
 `pita2009armor` em [referencias.bib](../../referencias/referencias.bib).
 
-Comentários do guia sobre a leitura: `[Material: guia AAMAS 2027 (gerado por IA)]`
+Comentários do guia sobre a leitura: `[Material: guia AAMAS 2027]`
 
 - **Por que esta:** conta como um agente de software (ARMOR) foi implantado no aeroporto de Los
   Angeles a partir de 2007 para randomizar patrulhas e postos de controle. Mostra o que a IASI
@@ -783,8 +779,7 @@ Minhas anotações: [areas/iasi.md](areas/iasi.md).
 
 ## Glossário do guia
 
-Termos que aparecem em várias áreas, com definição simplificada. `[Material: guia AAMAS 2027
-(gerado por IA)]`
+Termos que aparecem em várias áreas, com definição simplificada. `[Material: guia AAMAS 2027]`
 
 Os termos que ainda não existiam foram levados para o [glossário](../../glossario.md), na seção
 "Termos da exploração AAMAS 2027", com a coluna operacional em branco. *Agente*, *SMA* e *SLM*

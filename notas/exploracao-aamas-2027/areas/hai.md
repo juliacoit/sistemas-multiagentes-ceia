@@ -1,7 +1,7 @@
 ---
 titulo: "HAI — Human-Agent Interaction"
 status: rascunho
-fontes: [chamada AAMAS 2027 (main track), guia AAMAS 2027 (gerado por IA)]
+fontes: [chamada AAMAS 2027 (main track), guia AAMAS 2027]
 ---
 
 # HAI — Human-Agent Interaction
@@ -13,11 +13,11 @@ pergunta: [guia-areas.md](../guia-areas.md#hai--human-agent-interaction).
 
 Estuda **como pessoas e agentes interagem e trabalham juntos**: confiança, explicações, divisão
 de controle e como o agente percebe e modela o humano. Muitos trabalhos da área avaliam o
-sistema com estudos com usuários. `[Material: guia AAMAS 2027 (gerado por IA)]`
+sistema com estudos com usuários. `[Material: guia AAMAS 2027]`
 
 **Quando vai para esta área:** quando a interação humano-agente é central na pergunta, no
 método ou na avaliação. Aspectos institucionais ou de governança vão para COINE; arquiteturas
-de agentes generativos vão para GAAI. `[Material: guia AAMAS 2027 (gerado por IA)]`
+de agentes generativos vão para GAAI. `[Material: guia AAMAS 2027]`
 
 > Papers should be submitted to HAI when human-agent interaction is central to the research
 > question, methodology, or evaluation. Papers focused primarily on institutional, normative,
@@ -78,7 +78,7 @@ Quando eu entender um termo, levo a definição operacional para o
 
 **Leitura introdutória:** [Guidelines for Human-AI
 Interaction](https://www.microsoft.com/research/publication/guidelines-for-human-ai-interaction/),
-de Saleema Amershi e colegas (CHI, 2019). `[Material: guia AAMAS 2027 (gerado por IA)]`
+de Saleema Amershi e colegas (CHI, 2019). `[Material: guia AAMAS 2027]`
 
 - **Identificação:** DOI [10.1145/3290605.3300233](https://doi.org/10.1145/3290605.3300233).
   Chave `amershi2019guidelines` em [referencias.bib](../../../referencias/referencias.bib).
